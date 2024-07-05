@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_bhaskar_6531" target="blank"><img src="https://img.shields.io/twitter/follow/_bhaskar_6531?logo=twitter&style=for-the-badge" alt="_bhaskar_6531" /></a> </p>
 
-- 🌱 I’m currently learning **about advanced data structures and algorithms, further honing my skills in C++ while also delving into web development technologies such as HTML5, CSS, JavaScript 7 Django.**
+- 🌱 I’m currently learning **about advanced data structures and algorithms, further honing my skills in C++ while also delving into web development technologies such as HTML5, CSS, JavaScript & Django.**
 
 - 💬 Ask me about **mastering data structures and algorithms, or diving into web development with HTML5, CSS, JavaScript & Django.**
 
