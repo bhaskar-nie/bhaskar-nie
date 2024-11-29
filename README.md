@@ -1,4 +1,4 @@
-![logo](https://github.com/bhaskar-nie/bhaskar-nie/blob/main/1677945624489.jpeg)
+![logo](https://github.com/bhaskar-nie/bhaskar-nie/blob/main/LinKedIn_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhaskar Anand</h1>
 <h3 align="center">Passionate problem-solver and C++ enthusiast | Backend developer</h3>
 
