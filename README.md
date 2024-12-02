@@ -1,6 +1,11 @@
 ![logo](https://github.com/bhaskar-nie/bhaskar-nie/blob/main/LinKedIn_Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Bhaskar Anand</h1>
 <h3 align="center">Passionate problem-solver and C++ enthusiast | Backend developer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hi+there!+I'm+Bhaskar+Anand.;%3CB.Tech+CS+Student+%7C+NIE+Mysuru.;%3CPassionate+about+DSA+%26+Backend+Development.;%3CRunner-Up+at+JPMC+Code+for+Good+2024.;%3CExploring+Machine+Learning+%26+AI.;" alt="Typing SVG" /></a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
