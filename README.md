@@ -1,44 +1,170 @@
 ![logo](https://github.com/bhaskar-nie/bhaskar-nie/blob/main/LinKedIn_Banner.jpg)
+# <div align="center">BHASKAR ANAND</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=500&height=70&lines=Computer+Science+Student+at+NIE;C%2B%2B+Backend+Developer;DSA+Problem+Solver;Tech+Innovator;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+</div>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=6000&pause=1000&width=950&height=100&separator=%3C&lines=Hi+there!+I'm+Bhaskar+Anand.;%3CB.Tech+CS+Student+%7C+NIE+Mysuru.;%3CRunner-Up+at+JPMC+Code+for+Good+2024.;%3CPassionate+about+DSA+%26+Web+Development.;%3CExploring+Machine+Learning+%26+AI.;" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/beingbhaskar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=08457e" alt="LinkedIn" />
+  </a>
+  <a href="mailto:official.beingbhaskar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=b91d1b" alt="Email" />
+  </a>
+  <a href="https://github.com/bhaskar-nie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=333333" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/officiallybhaskar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=d88012" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/bhaskar_nie" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58&color=0b8045" alt="GeeksforGeeks" />
+  </a>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+<div align="center">
+  <h2>✨ About Me</h2>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar-nie&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar-nie" /> </p>
+<table align="center">
+  <tr>
+    <td>
+      <p>
+        As a Computer Science Engineering student at The National Institute of Engineering, I'm passionate about solving complex problems and building efficient solutions. With a strong foundation in data structures and algorithms, I enjoy tackling challenging coding problems and developing robust software systems.
+      </p>
+      <ul>
+        <li>🔭 Currently working on <a href="https://github.com/bhaskar-nie/neural-network-visualizer">Neural Network Visualizer</a></li>
+        <li>🌱 Learning <b>Advanced C++, React, Machine Learning & AI</b></li>
+        <li>💬 Ask me about <b>Data Structures, Algorithms, C++, and Web Development</b></li>
+        <li>📫 Reach me at <b>official.beingbhaskar@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I've solved over 750 LeetCode problems, ranking in the top 7.86% with a rating of 1794</b></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="100%">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on [Dhulikona Project](https://github.com/bhaskar-nie/Dhulikona_Project)
+<div style="background: linear-gradient(to right, #0d1117, #161b22); border-radius: 10px; padding: 5px; margin: 15px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); border: 1px solid #30363d;">
+  <details open>
+    <summary style="cursor: pointer; list-style: none; padding: 10px 15px; position: relative;">
+      <h2 style="display: inline-block; margin: 0; font-size: 24px; color: #58a6ff; font-family: 'Segoe UI', Arial, sans-serif;">
+        <span style="margin-right: 10px;">💻</span>Code Profile
+      </h2>
+    </summary>
+    <div style="background: #0d1117; border-radius: 8px; margin: 5px 15px 15px; overflow: hidden; border-left: 3px solid #58a6ff;">
+      <pre style="padding: 20px; margin: 0; overflow-x: auto; font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; line-height: 1.5; color: #e6edf3;"><code><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">bhaskar</span> <span style="color: #ff7b72;">=</span> {
+  <span style="color: #79c0ff;">code</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"C++"</span>, <span style="color: #a5d6ff;">"C"</span>, <span style="color: #a5d6ff;">"Python"</span>, <span style="color: #a5d6ff;">"HTML"</span>, <span style="color: #a5d6ff;">"CSS"</span>],
+  <span style="color: #79c0ff;">tools</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"Django"</span>, <span style="color: #a5d6ff;">"Flask"</span>, <span style="color: #a5d6ff;">"React"</span>, <span style="color: #a5d6ff;">"MySQL"</span>, <span style="color: #a5d6ff;">"SQLite"</span>],
+  <span style="color: #79c0ff;">interests</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"Competitive Programming"</span>, <span style="color: #a5d6ff;">"Web Development"</span>, 
+              <span style="color: #a5d6ff;">"Machine Learning"</span>],
+  <span style="color: #79c0ff;">education</span><span style="color: #ff7b72;">:</span> <span style="color: #a5d6ff;">"B.E. Computer Science at NIE (CGPA: 9.50)"</span>,
+  <span style="color: #79c0ff;">currentFocus</span><span style="color: #ff7b72;">:</span> <span style="color: #a5d6ff;">"Deep Learning"</span>,
+  <span style="color: #79c0ff;">achievements</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"Runner-Up at JPMC Code for Good 2024"</span>, 
+                <span style="color: #a5d6ff;">"Finalist at Qualcomm VisionX Hackathon"</span>, 
+                <span style="color: #a5d6ff;">"750+ LeetCode problems solved"</span>]
+};</code></pre>
+    </div>
+  </details>
+</div>
 
-- 🌱 I’m currently learning **advanced data structures and algorithms, further honing my skills in C++ while also delving into web development technologies such as HTML5, CSS, JavaScript & Django.**
+<div align="center">
+  <h2>💻 LeetCode Stats</h2>
+  <a href="https://leetcode.com/officiallybhaskar/" target="_blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=officiallybhaskar&theme=dark&border=border&animated=true" alt="LeetCode Badge" />
+  </a>
+</div>
 
-- 💬 Ask me about **mastering data structures and algorithms, or diving into web development with Python and Django.**
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
 
-- 📫 Ping me at **official.beingbhaskar@gmail.com**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></td>
+      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
+      <td><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></td>
+      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
+      <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="50" height="50"></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50"></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="50" height="50"></td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_bhaskar_6531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bhaskar_6531" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/beingbhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beingbhaskar" height="30" width="40" /></a>
-<a href="https://instagram.com/officiallybhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officiallybhaskar" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h2>🏆 Experience</h2>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>💼 Work Experience</h3>
+        <ul>
+          <li>
+            <b>C++ Backend Intern</b> at <b>GoQuant Technologies Inc</b> (Dec 2024 - Feb 2025)
+            <ul>
+              <li>Developed high-performance backend systems using modern C++ and Google Test framework</li>
+              <li>Implemented gateway integrations and APIs for financial trading platforms</li>
+              <li>Worked with React frontend, FastAPI middleware and C++ backend in a fintech environment</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar-nie&show_icons=true&locale=en&layout=compact" alt="bhaskar-nie" /></p>
+    </tr>
+  </table>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar-nie&show_icons=true&locale=en" alt="bhaskar-nie" /></p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-nie&" alt="bhaskar-nie" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaskar-nie&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=C8D1D8&bg_color=0D1117" alt="Bhaskar's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-nie&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-nie&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF" alt="Activity Graph" width="98%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nie&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy" width="98%" />
+</div>
+
+<div align="center">
+  <h2>👨‍💻 Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar-nie&layout=compact&hide_border=true&title_color=00FFFF&text_color=C8D1D8&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
+
+<div align="center">
+  <h2>🔍 Profile Views</h2>
+  <img src="https://komarev.com/ghpvc/?username=bhaskar-nie&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bhaskar-nie?style=for-the-badge&label=Followers&color=ff69b4" alt="Followers" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontSize=70" width="100%">
+</div>
