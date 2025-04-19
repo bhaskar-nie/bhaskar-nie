@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-  <h2>💻 LeetCode Stats</h2>
+  <h2>💻 LeetCode Badges</h2>
   <a href="https://leetcode.com/officiallybhaskar/" target="_blank">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=officiallybhaskar&theme=dark&border=border&animated=true" alt="LeetCode Badge" />
   </a>
@@ -116,7 +116,6 @@
 
 <div align="center">
   <table>
-    <tr>
       <td>
         <h3>💼 Work Experience</h3>
         <ul>
@@ -130,8 +129,6 @@
           </li>
         </ul>
       </td>
-
-    </tr>
   </table>
 </div>
 
