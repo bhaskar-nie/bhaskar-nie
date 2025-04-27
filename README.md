@@ -34,7 +34,7 @@
         As a Computer Science Engineering student at The National Institute of Engineering, I'm passionate about solving complex problems and building efficient solutions. With a strong foundation in data structures and algorithms, I enjoy tackling challenging coding problems and developing robust software systems.
       </p>
       <ul>
-        <li>🔭 Currently working on <a href="https://github.com/bhaskar-nie/neural-network-visualizer">Neural Network Visualizer</a></li>
+        <li>🔭 Currently working on <a href="https://github.com/bhaskar-nie/Neural_Network_Visualiser_From_Scratch">Neural Network Visualizer</a></li>
         <li>🌱 Learning <b>Advanced C++, React, Machine Learning & AI</b></li>
         <li>💬 Ask me about <b>Data Structures, Algorithms, C++, and Web Development</b></li>
         <li>📫 Reach me at <b>official.beingbhaskar@gmail.com</b></li>
