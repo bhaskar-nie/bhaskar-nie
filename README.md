@@ -1,167 +1,236 @@
-![logo](https://github.com/bhaskar-nie/bhaskar-nie/blob/main/LinKedIn_Banner.jpg)
-# <div align="center">BHASKAR ANAND</div>
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&random=false&width=500&height=70&lines=Computer+Science+Student+at+NIE;C%2B%2B+Backend+Developer;DSA+Problem+Solver;Tech+Innovator;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B8860B,100:1a1a2e&height=200&section=header&text=Bhaskar%20Anand&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=17" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/beingbhaskar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=08457e" alt="LinkedIn" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=B8860B&center=true&vCenter=true&width=620&height=55&lines=Final+Year+CS+%40+NIE+Mysuru;SWE+Intern+%40+Dhvana+;C%2B%2B+%7C+Python+%7C+FastAPI+%7C+PyTorch;850%2B+LeetCode+%C2%B7+Top+7.86%25+%C2%B7+Rating+1794;Building+real+products+that+matter)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/beingbhaskar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:official.beingbhaskar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=b91d1b" alt="Email" />
+  &nbsp;
+  <a href="mailto:official.beingbhaskar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/bhaskar-nie" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=333333" alt="GitHub" />
+  &nbsp;
+  <a href="https://github.com/bhaskar-nie">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/officiallybhaskar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=d88012" alt="LeetCode" />
+  &nbsp;
+  <a href="https://leetcode.com/officiallybhaskar">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/bhaskar_nie" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F9D58&color=0b8045" alt="GeeksforGeeks" />
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/bhaskar_nie">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </div>
 
-<div align="center">
-  <h2>✨ About Me</h2>
-</div>
+<br/>
 
-<table align="center">
+---
+
+## `$ whoami`
+
+```python
+bhaskar = {
+    "name"       : "Bhaskar Anand",
+    "education"  : "B.E. Computer Science · NIE Mysuru · CGPA 9.4 · 2022–2026",
+    "role"       : "SWE Intern @ Dhvana ",
+    "languages"  : ["C++", "Python", "C"],
+    "frameworks" : ["FastAPI", "Django", "Flask", "React"],
+    "ml_stack"   : ["PyTorch", "Transformers", "FAISS", "NumPy"],
+    "tools"      : ["Git", "Docker", "Poetry", "Linux", "PostgreSQL"],
+    "interests"  : ["ML Systems", "Speech AI", "Competitive Programming"],
+    "current"    : "Building real products that matter",
+}
+```
+
+---
+
+## 💼 Experience
+
+<table>
   <tr>
+    <td width="50px" align="center">🤖</td>
     <td>
-      <p>
-        As a Computer Science Engineering student at The National Institute of Engineering, I'm passionate about solving complex problems and building efficient solutions. With a strong foundation in data structures and algorithms, I enjoy tackling challenging coding problems and developing robust software systems.
-      </p>
-      <ul>
-        <li>🔭 Currently working on <a href="https://github.com/bhaskar-nie/Neural_Network_Visualiser_From_Scratch">Neural Network Visualizer</a></li>
-        <li>🌱 Learning <b>Advanced C++, React, Machine Learning & AI</b></li>
-        <li>💬 Ask me about <b>Data Structures, Algorithms, C++, and Web Development</b></li>
-        <li>📫 Reach me at <b>official.beingbhaskar@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I've solved over 750 LeetCode problems, ranking in the top 7.86% with a rating of 1794</b></li>
-      </ul>
+      <strong>SWE Intern — Dhvana </strong><br/>
+      <code>Feb 2026 – Present</code><br/>
+      <sub>Building a sovereign, on-device voice AI for hearing-impaired Indian users.</sub>
     </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="100%">
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50px" align="center">⚡</td>
+    <td>
+      <strong>C++ Backend Intern — GoQuant Technologies Inc</strong><br/>
+      <code>Miami, Florida (Remote) · Dec 2024 – Feb 2025</code><br/>
+      <sub>Built high-throughput C++ test suites using Google Test to validate low-latency algorithmic trading logic across 3 exchange gateways. Reduced manual testing by 60 hours/month in an HFT production codebase.</sub>
     </td>
   </tr>
 </table>
 
-<div style="background: linear-gradient(to right, #0d1117, #161b22); border-radius: 10px; padding: 5px; margin: 15px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); border: 1px solid #30363d;">
-  <details open>
-    <summary style="cursor: pointer; list-style: none; padding: 10px 15px; position: relative;">
-      <h2 style="display: inline-block; margin: 0; font-size: 24px; color: #58a6ff; font-family: 'Segoe UI', Arial, sans-serif;">
-        <span style="margin-right: 10px;">💻</span>Code Profile
-      </h2>
-    </summary>
-    <div style="background: #0d1117; border-radius: 8px; margin: 5px 15px 15px; overflow: hidden; border-left: 3px solid #58a6ff;">
-      <pre style="padding: 20px; margin: 0; overflow-x: auto; font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; line-height: 1.5; color: #e6edf3;"><code><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">bhaskar</span> <span style="color: #ff7b72;">=</span> {
-  <span style="color: #79c0ff;">code</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"C++"</span>, <span style="color: #a5d6ff;">"C"</span>, <span style="color: #a5d6ff;">"Python"</span>, <span style="color: #a5d6ff;">"HTML"</span>, <span style="color: #a5d6ff;">"CSS"</span>],
-  <span style="color: #79c0ff;">tools</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"Django"</span>, <span style="color: #a5d6ff;">"Flask"</span>, <span style="color: #a5d6ff;">"React"</span>, <span style="color: #a5d6ff;">"MySQL"</span>, <span style="color: #a5d6ff;">"SQLite"</span>],
-  <span style="color: #79c0ff;">interests</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"Competitive Programming"</span>, <span style="color: #a5d6ff;">"Web Development"</span>, 
-              <span style="color: #a5d6ff;">"Machine Learning"</span>],
-  <span style="color: #79c0ff;">education</span><span style="color: #ff7b72;">:</span> <span style="color: #a5d6ff;">"B.E. Computer Science at NIE (CGPA: 9.50)"</span>,
-  <span style="color: #79c0ff;">currentFocus</span><span style="color: #ff7b72;">:</span> <span style="color: #a5d6ff;">"Deep Learning"</span>,
-  <span style="color: #79c0ff;">achievements</span><span style="color: #ff7b72;">:</span> [<span style="color: #a5d6ff;">"Runner-Up at JPMC Code for Good 2024"</span>, 
-                <span style="color: #a5d6ff;">"Finalist at Qualcomm VisionX Hackathon"</span>, 
-                <span style="color: #a5d6ff;">"750+ LeetCode problems solved"</span>]
-};</code></pre>
-    </div>
-  </details>
-</div>
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>🌾 GramGPT</h3>
+      <p><em>AI-powered multilingual agricultural assistant for 120M+ Indian farmers</em></p>
+      <ul>
+        <li>RAG pipeline over <strong>720+ indexed chunks</strong> using FAISS + Sentence Transformers — sub-second queries</li>
+        <li><strong>11+ Indic languages</strong> via Gemini 2.0 Flash + Sarvam AI (STT · Translation · TTS)</li>
+        <li>FastAPI backend · dual input modes (voice + text) · 6+ audio formats</li>
+        <li>Citation-based responses for legal accuracy</li>
+      </ul>
+      <a href="https://github.com/bhaskar-nie/GramGPT">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <h3>📊 Credit Card Fraud Detection</h3>
+      <p><em>Anomaly detection on a severely imbalanced dataset (0.17% fraud) · F2 = 0.82</em></p>
+      <ul>
+        <li>Multivariate Gaussian model built from scratch</li>
+        <li>Temporal feature engineering + log-transforms for skewness correction</li>
+        <li>Reduced feature space <strong>30 → 9 dims</strong> via statistical analysis</li>
+      </ul>
+      <a href="https://github.com/bhaskar-nie/Anamoly_Detection_Credit_Card">
+        <img src="https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🚗 YOLO Object Detection — Autonomous Vehicles</h3>
+      <p><em>Qualcomm VisionX Hackathon · IIT Bombay Techfest 2024</em></p>
+      <ul>
+        <li>YOLOv3 + TensorFlow pipeline optimised for high mAP in driving scenarios</li>
+        <li>Custom preprocessing + NMS post-processing to handle low-quality image inputs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
-  <h2>💻 LeetCode Badges</h2>
-  <a href="https://leetcode.com/officiallybhaskar/" target="_blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=officiallybhaskar&theme=dark&border=border&animated=true" alt="LeetCode Badge" />
+
+| &nbsp; | Achievement | When |
+|:------:|:-----------|:----:|
+| 🥈 | **Runner Up** · MLH Hack Days, Bengaluru | Nov 2025 |
+| 🔥 | **LeetCode** · 850+ solved · Top 7.86% · Rating 1794 | Ongoing |
+| 🏅 | **National Semi-Finalist** · Flipkart GRiD 7.0 | Aug 2025 |
+| 🎯 | **Regional Participant** · SAP Hackfest 2025 | Jul 2025 |
+| 🥇 | **Finalist** · Great Bengaluru Hackathon — Sarvam AI Track | Mar 2025 |
+| ⚡ | **Finalist** · Qualcomm VisionX Hackathon — IIT Bombay Techfest | Dec 2024 |
+| 🥈 | **Runner Up** · JPMorgan Chase Code for Good | Jul 2024 |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frameworks & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🎖️ LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/officiallybhaskar/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=officiallybhaskar&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
   </a>
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaskar-nie&show_icons=true&count_private=true&hide_border=true&title_color=B8860B&icon_color=8B0000&text_color=333333&bg_color=faf8f5" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-nie&theme=highcontrast&hide_border=true&ring=B8860B&fire=8B0000&currStreakLabel=B8860B" width="49%" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></td>
-      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
-      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
-      <td><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></td>
-      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
-      <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="50" height="50"></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50"></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="50" height="50"></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-nie&theme=github-compact&hide_border=true&area=true&color=8B0000&line=B8860B&point=8B0000" width="98%" />
 </div>
 
 <div align="center">
-  <h2>🏆 Experience</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nie&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4" width="98%" />
 </div>
 
 <div align="center">
-  <table>
-      <td>
-        <h3>💼 Work Experience</h3>
-        <ul>
-          <li>
-            <b>C++ Backend Intern</b> at <b>GoQuant Technologies Inc</b> (Dec 2024 - Feb 2025)
-            <ul>
-              <li>Developed high-performance backend systems using modern C++ and Google Test framework</li>
-              <li>Implemented gateway integrations and APIs for financial trading platforms</li>
-              <li>Worked with React frontend, FastAPI middleware and C++ backend in a fintech environment</li>
-            </ul>
-          </li>
-        </ul>
-      </td>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar-nie&layout=compact&hide_border=true&title_color=B8860B&text_color=333333&bg_color=faf8f5" width="50%" />
 </div>
 
+---
+
+## 🌐 Leadership
+
+<table>
+  <tr>
+    <td width="50px" align="center">🔐</td>
+    <td>
+      <strong>Co-Founder & Tech Lead — OWASP NIE Student Chapter, Mysuru</strong><br/>
+      <code>Feb 2023 – Sep 2025</code><br/>
+      <sub>Led 100+ members across security workshops, technical projects, and periodic deep-dive sessions on application security and secure software development.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <img src="https://komarev.com/ghpvc/?username=bhaskar-nie&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/bhaskar-nie?style=for-the-badge&color=B8860B&labelColor=1a1a1a&label=FOLLOWERS" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskar-nie&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=C8D1D8&bg_color=0D1117" alt="Bhaskar's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-nie&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar-nie&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF" alt="Activity Graph" width="98%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nie&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy" width="98%" />
-</div>
-
-<div align="center">
-  <h2>👨‍💻 Top Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar-nie&layout=compact&hide_border=true&title_color=00FFFF&text_color=C8D1D8&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
-<div align="center">
-  <h2>🔍 Profile Views</h2>
-  <img src="https://komarev.com/ghpvc/?username=bhaskar-nie&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bhaskar-nie?style=for-the-badge&label=Followers&color=ff69b4" alt="Followers" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontSize=70" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:B8860B,100:8B0000&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
